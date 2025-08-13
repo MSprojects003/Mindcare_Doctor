@@ -226,7 +226,7 @@ function Appointments() {
   return (
     <div className="container flex justify-center flex-col">
       <h1 className="text-3xl font-bold mb-6">My Appointments</h1>
-
+  
       <div className="flex justify-between items-center mb-6 gap-4">
         <div className="relative w-full max-w-sm">
           <Input
